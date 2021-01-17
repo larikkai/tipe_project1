@@ -1,1 +1,4 @@
 todo.md
+*.pyc
+pollapp\pollapp\__pycache__
+local_settings.py
